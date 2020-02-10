@@ -1,0 +1,7 @@
+C:\Users\kavu\source\repos\DevTest_Kenika\DevTest_Kenika\bin\Debug\DevTest_Kenika.exe.config
+C:\Users\kavu\source\repos\DevTest_Kenika\DevTest_Kenika\bin\Debug\DevTest_Kenika.exe
+C:\Users\kavu\source\repos\DevTest_Kenika\DevTest_Kenika\bin\Debug\DevTest_Kenika.pdb
+C:\Users\kavu\source\repos\DevTest_Kenika\DevTest_Kenika\obj\Debug\DevTest_Kenika.csprojAssemblyReference.cache
+C:\Users\kavu\source\repos\DevTest_Kenika\DevTest_Kenika\obj\Debug\DevTest_Kenika.csproj.CoreCompileInputs.cache
+C:\Users\kavu\source\repos\DevTest_Kenika\DevTest_Kenika\obj\Debug\DevTest_Kenika.exe
+C:\Users\kavu\source\repos\DevTest_Kenika\DevTest_Kenika\obj\Debug\DevTest_Kenika.pdb
